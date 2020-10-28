@@ -16,6 +16,8 @@
 [<img align="left" alt="rnkdsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rnkdsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="rnkdsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rnkdsh | Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
+[<img align="left" alt="rnkdsh | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -43,4 +45,6 @@
 [facebook]: https://facebook.com/rnkdsh
 [instagram]: https://instagram.com/rnkdsh
 [linkedin]: https://linkedin.com/in/rnkdsh
+[playstore]: https://play.google.com/store/apps/dev?id=8222220646689899525
+[stackoverflow]: https://stackoverflow.com/users/5297799/ronak-doshi
 [hash]: #
