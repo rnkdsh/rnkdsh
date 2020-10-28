@@ -71,4 +71,4 @@
 [linkedin]: https://linkedin.com/in/rnkdsh
 [playstore]: https://play.google.com/store/apps/dev?id=8222220646689899525
 [stackoverflow]: https://stackoverflow.com/users/5297799/ronak-doshi
-[hash]: 
+[hash]: #
