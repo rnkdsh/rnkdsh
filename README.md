@@ -1,5 +1,6 @@
 ### Hi there, I'm Ronak Doshi - aka [rnkdsh][website] 👋
 
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/rnkdsh?style=for-the-badge)](https://peerlist.io/rnkdsh)
 [![Website](https://img.shields.io/website?label=ronakdoshi.in&style=for-the-badge&url=https%3A%2F%2Fronakdoshi.in)](https://ronakdoshi.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rnkdsh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frnkdsh&screen_name=rnkdsh)
 
