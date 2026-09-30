@@ -19,7 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
+      # svg-only runs as the runner user. The default Platane/snk runs in Docker as root,
+      # which leaves dist/ owned by root and makes the curl below fail with exit code 23.
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
