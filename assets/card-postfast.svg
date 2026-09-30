@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title">
+  <title id="title">postfast: schedule, plan and automate viral social media content. postfast.app, built with TanStack Start, NestJS, PostgreSQL and Prisma.</title>
+  <defs>
+    <radialGradient id="glow" cx="170" cy="30" r="680" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#84cc16" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#84cc16" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="1150" cy="640" r="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    text { font-family: Geist, Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .eyebrow { font-size: 22px; font-weight: 600; letter-spacing: 3.5px; fill: #a3e635; }
+    .title { font-size: 50px; font-weight: 700; fill: #fafafa; }
+    .pill { font-size: 21px; font-weight: 600; letter-spacing: 2.5px; fill: #a1a1aa; }
+    .lead { font-size: 54px; font-weight: 600; fill: #fafafa; }
+    .lead.soft { fill: #a1a1aa; }
+    .small { font-size: 30px; fill: #71717a; }
+    .foot { font-size: 26px; font-weight: 500; fill: #71717a; }
+  </style>
+
+  <rect width="1200" height="630" fill="#09090b"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <rect x="56" y="48" width="88" height="88" rx="22" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+  <path d="M107 62 80 99h18l-5 25 28-38h-18l4-24Z" fill="#a3e635" stroke="#a3e635" stroke-width="3" stroke-linejoin="round"/>
+  <text class="eyebrow" x="172" y="82">SOCIAL MEDIA SCHEDULER</text>
+  <text class="title" x="172" y="130">postfast</text>
+
+  <rect x="939" y="64" width="205" height="56" rx="28" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+  <circle cx="969" cy="92" r="7" fill="#a3e635"/>
+  <text class="pill" x="989" y="100" textLength="127">SHIPPING</text>
+
+  <rect x="56" y="172" width="1088" height="336" rx="32" fill="#111113" stroke="#27272a" stroke-width="2"/>
+  <text class="lead" x="104" y="292">Schedule, plan &amp; automate</text>
+  <text class="lead soft" x="104" y="360">viral social media content.</text>
+  <text class="small" x="104" y="436">Boost your reach, save time and grow your brand.</text>
+
+  <text class="foot" x="56" y="578">postfast.app</text>
+  <text class="foot" x="1144" y="578" text-anchor="end">TanStack Start · NestJS · PostgreSQL · Prisma</text>
+</svg>

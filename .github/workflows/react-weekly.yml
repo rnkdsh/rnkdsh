@@ -1,0 +1,29 @@
+name: React Weekly
+
+# Refreshes the "Fresh from React Weekly" list in the README from the newsletter's RSS feed.
+# Runs daily but only commits when a new issue is out.
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: https://react-weekly.dev/rss.xml
+          comment_tag_name: REACT-WEEKLY
+          max_post_count: 3
+          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          date_format: "UTC:mmm d, yyyy"
+          tag_post_pre_newline: true
+          commit_message: "docs(readme): pull the latest React Weekly issues"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

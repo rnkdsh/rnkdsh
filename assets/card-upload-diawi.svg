@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title">
+  <title id="title">upload-diawi: a GitHub Action that uploads your APK to Diawi straight from CI. On the GitHub Marketplace, written in TypeScript.</title>
+  <defs>
+    <radialGradient id="glow" cx="170" cy="30" r="680" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="1150" cy="640" r="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    text { font-family: Geist, Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .eyebrow { font-size: 22px; font-weight: 600; letter-spacing: 3.5px; fill: #60a5fa; }
+    .title { font-size: 50px; font-weight: 700; fill: #fafafa; }
+    .pill { font-size: 21px; font-weight: 600; letter-spacing: 2.5px; fill: #a1a1aa; }
+    .lead { font-size: 54px; font-weight: 600; fill: #fafafa; }
+    .lead.soft { fill: #a1a1aa; }
+    .small { font-size: 30px; fill: #71717a; }
+    .foot { font-size: 26px; font-weight: 500; fill: #71717a; }
+  </style>
+
+  <rect width="1200" height="630" fill="#09090b"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <rect x="56" y="48" width="88" height="88" rx="22" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+  <g fill="none" stroke="#60a5fa" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M100 110V68M83 85l17-17 17 17"/><path d="M75 102v12a6 6 0 0 0 6 6h38a6 6 0 0 0 6-6v-12"/></g>
+  <text class="eyebrow" x="172" y="82">GITHUB ACTION</text>
+  <text class="title" x="172" y="130">upload-diawi</text>
+
+  <rect x="891" y="64" width="253" height="56" rx="28" fill="#18181b" stroke="#27272a" stroke-width="2"/>
+  <circle cx="921" cy="92" r="7" fill="#60a5fa"/>
+  <text class="pill" x="941" y="100" textLength="175">MARKETPLACE</text>
+
+  <rect x="56" y="172" width="1088" height="336" rx="32" fill="#111113" stroke="#27272a" stroke-width="2"/>
+  <text class="lead" x="104" y="292">Upload your APK to Diawi</text>
+  <text class="lead soft" x="104" y="360">straight from your CI.</text>
+  <text class="small" x="104" y="436">Share Android builds with your testers in one step.</text>
+
+  <text class="foot" x="56" y="578">github.com/rnkdsh/action-upload-diawi</text>
+  <text class="foot" x="1144" y="578" text-anchor="end">TypeScript · GitHub Actions</text>
+</svg>
