@@ -33,9 +33,9 @@ I'm a software engineer from India, shipping apps since 2017. I cut my teeth on 
 #### 📬 Fresh from React Weekly
 
 <!-- REACT-WEEKLY:START -->
+- [Issue #40: React Native Deep Dives and the Road to TanStack Charts](https://react-weekly.dev/newsletter/40) <sub>· Oct 4, 2026</sub>
 - [Issue #39: Agentic Workflows and Mobile Ecosystem Updates](https://react-weekly.dev/newsletter/39) <sub>· Sep 27, 2026</sub>
 - [Issue #38: React Native Architecture Migrations and Server Functions](https://react-weekly.dev/newsletter/38) <sub>· Sep 20, 2026</sub>
-- [Issue #37: React 19.3 and Ecosystem Updates](https://react-weekly.dev/newsletter/37) <sub>· Sep 13, 2026</sub>
 
 <!-- REACT-WEEKLY:END -->
 
