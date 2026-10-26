@@ -33,9 +33,9 @@ I'm a software engineer from India, shipping apps since 2017. I cut my teeth on 
 #### 📬 Fresh from React Weekly
 
 <!-- REACT-WEEKLY:START -->
+- [Issue #43: React Native 0.88, Expo SDK 58, and Agentic UI Patterns](https://react-weekly.dev/newsletter/43) <sub>· Oct 25, 2026</sub>
 - [Issue #42: Cross-Platform Monorepos, Suspense DevTools, and Expo SDK 58](https://react-weekly.dev/newsletter/42) <sub>· Oct 18, 2026</sub>
 - [Issue #41: Next.js 16.4, TanStack Charts 1.0, and Compiler Benchmarks](https://react-weekly.dev/newsletter/41) <sub>· Oct 11, 2026</sub>
-- [Issue #40: React Native Deep Dives and the Road to TanStack Charts](https://react-weekly.dev/newsletter/40) <sub>· Oct 4, 2026</sub>
 
 <!-- REACT-WEEKLY:END -->
 
