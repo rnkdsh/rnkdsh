@@ -33,9 +33,9 @@ I'm a software engineer from India, shipping apps since 2017. I cut my teeth on 
 #### 📬 Fresh from React Weekly
 
 <!-- REACT-WEEKLY:START -->
+- [Issue #47: Stable View Transitions, Reanimated 4.8, and Modern Framework Trade-offs](https://react-weekly.dev/newsletter/47) <sub>· Nov 22, 2026</sub>
 - [Issue #46: Agentic Tooling and Mobile Performance Deep Dives](https://react-weekly.dev/newsletter/46) <sub>· Nov 15, 2026</sub>
 - [Issue #45: React Native 0.89 RC, Suspense Latency, and Next.js Security](https://react-weekly.dev/newsletter/45) <sub>· Nov 8, 2026</sub>
-- [Issue #44: AI-Driven Optimization and the Expanding TanStack Ecosystem](https://react-weekly.dev/newsletter/44) <sub>· Nov 1, 2026</sub>
 
 <!-- REACT-WEEKLY:END -->
 
